@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleBooksList</string>
+    <string name="asking_user">What Book do you want to Read?</string>
+    <string name="no_string">There are no books loaded</string>
+    <string name="search">Please search for a book</string>
+    <string name="books">Books</string>
+    <string name="search_button">Search</string>
+    <string name="no_internet">There is no internet connection</string>
+</resources>
